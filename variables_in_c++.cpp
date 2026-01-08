@@ -17,7 +17,7 @@ int main(){
     //variable naming rules
     // 1. should start with a letter (a-z, A-Z) or underscore
     // 2. can contain letters, digits (0-9), and underscores
-    // 3. cannot contain spaces or special characters
+    // 3. cannot contain spaces or special characters except underscore & dollar sign
     // 4. cannot be a reserved keyword in C++
 
     return 0;
